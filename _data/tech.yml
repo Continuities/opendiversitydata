@@ -218,4 +218,12 @@ companies:
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
-
+  - name: TripAdvisor
+    url: https://www.tripadvisor.com.com/
+    twitter: TripAdvisor
+    img: TODO.jpg
+    diversitydata: No
+    eeo-1: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
